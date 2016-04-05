@@ -40,6 +40,6 @@ http://jade-lang.com/
 
 
 
-For Operating Systems other then Linux watch here:
+For Operating Systems other than Linux watch here:
 
 https://www.meteor.com/install
